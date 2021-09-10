@@ -40,7 +40,7 @@ a {
 }
 #console {
     position: absolute;
-    top: 25px;
+    /* top: 25px; */
     min-width: 265px;
     overflow-y: auto;
     overflow-x: hidden;
