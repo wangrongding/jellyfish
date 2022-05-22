@@ -5,7 +5,7 @@ var canvas;
 function initWin() {
     docWidth = window.innerWidth;
     docHeight = $(window).height();
-    console.log(docWidth, "docWidth", window.innerWidth);
+    // console.log(docWidth, "docWidth", window.innerWidth);
     $("#webgl-canvas").width(docWidth);
     $("#webgl-canvas").height(docHeight);
     canvas.width = docWidth;
